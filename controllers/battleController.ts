@@ -1,5 +1,4 @@
 import { Request, Response } from "express";
-import axios from "axios";
 
 import { battleService } from "../services/battleServices.js";
 
